@@ -1,2 +1,5 @@
 # ITF-Lab 2018
-61070011
+##Author
+Kandanai Kaewcharus 61070011
+git config --system --unset
+credential.helper
